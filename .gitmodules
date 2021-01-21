@@ -1,0 +1,3 @@
+[submodule "beego"]
+	path = beego
+	url = https://github.com/jin123/golang
