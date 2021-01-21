@@ -1,3 +1,6 @@
 [submodule "beego"]
 	path = beego
 	url = https://github.com/jin123/golang
+[submodule "myApi/myApi"]
+	path = myApi/myApi
+	url = https://github.com/jin123/golang
