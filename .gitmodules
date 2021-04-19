@@ -4,3 +4,6 @@
 [submodule "gin-mod"]
 	path = gin-mod
 	url = https://github.com/jin123/golang/gin-mod
+[submodule "t"]
+	path = t
+	url = https://github.com/jin123/golang.git
