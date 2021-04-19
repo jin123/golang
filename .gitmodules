@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/jin123/golang/api
+[submodule "gin-mod"]
+	path = gin-mod
+	url = https://github.com/jin123/golang/gin-mod
